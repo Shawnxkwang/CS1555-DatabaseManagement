@@ -1,0 +1,49 @@
+-------------------------
+-- Xiaokai Wang
+
+-- xiw69
+
+
+
+SQL> @xiw69-query.sql
+
+
+
+   USER_ID
+----------
+         5
+
+
+FNAME                            LNAME
+-------------------------------- --------------------------------
+Ada                              Lovelace
+
+
+RECEIVEDBYUSER1
+---------------
+              0
+
+
+RECEIVEDBYUSER2
+---------------
+              4
+
+
+RECEIVEDBYUSER3
+---------------
+              2
+
+
+RECEIVEDBYUSER4
+---------------
+              0
+
+
+RECEIVEDBYUSER5
+---------------
+              0
+
+
+RECEIVEDBYUSER6
+---------------
+              0
