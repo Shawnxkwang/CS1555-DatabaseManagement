@@ -1,0 +1,94 @@
+SQL> @hw2-db.sql
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+SQL> @xiw69.sql
+
+Table altered.
+
+
+1 row created.
+
+
+1 row created.
+
+
+Table altered.
+
+
+1 row created.
+
+
+1 row created.
+
+
+Trigger created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+     MSGID       SPAM                                                           
+---------- ----------                                                           
+        99          0                                                           
+       999          0                                                           
+        11          0                                                           
+
+
+Trigger created.
+
+
+Trigger created.
+
+SQL> SPOOL OFF
